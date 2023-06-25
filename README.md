@@ -2,10 +2,10 @@
 > Saul Huarcaya Quispe
 ---
 ## Lenguajes
-. HTML
-. CSS
-. JAVASCRIPT
-. C# 
-. PHP
-. SQL
-. PYTHON
+- HTML
+- CSS
+- JAVASCRIPT
+- C# 
+- PHP
+- SQL
+- PYTHON
