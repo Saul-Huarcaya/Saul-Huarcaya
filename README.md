@@ -1,4 +1,11 @@
 # Software Developer
 > Saul Huarcaya Quispe
 ---
-### Lenguajes
+## Lenguajes
+. HTML
+. CSS
+. JAVASCRIPT
+. C# 
+. PHP
+. SQL
+. PYTHON
