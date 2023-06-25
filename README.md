@@ -1,4 +1,4 @@
-##Software Developer
--Saul Huarcaya Quispe
+## Software Developer
+- Saul Huarcaya Quispe
 ---
 ###Lenguajes
