@@ -1,11 +1,10 @@
 # Software Developer
 > Saul Huarcaya Quispe
 ---
-## Lenguajes
-- HTML
-- CSS
-- JAVASCRIPT
-- C# 
-- PHP
-- SQL
-- PYTHON
+
+~~~
+  let yo = {
+    Frontend: ["Html", "Css","Javascript","Xaml","Figma","Reactjs","Boostrap"],
+    Backend: ["C#","express js","SQL","Mysql","Sql server","Mongo db"]
+  }
+~~~
